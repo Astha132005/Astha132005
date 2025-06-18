@@ -39,8 +39,7 @@
 
 - **WhatsApp Message Automator 📱**  
   Python script using `pywhatkit` to automate scheduled WhatsApp messages.
-
-  - *🎮 Flappy Bird Game*  
+- **🎮 Flappy Bird Game*  
   A Python-based version of the classic Flappy Bird using pygame, featuring menu states, smooth animations, and dynamic obstacles.  
 
 ---
