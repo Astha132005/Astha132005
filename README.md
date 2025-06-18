@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science student (Specialization: AI & ML) at ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH (OUTR'27)
 💻 Passionate about frontend web development, AIML enthusiast and Java programming  
 🌱 Currently diving deep into Cloud Computing and Virtualization  
-💬 I enjoy sharing insights on skincare and lifestyle on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
+💬 I enjoy sharing insights on lifestyle on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
 
 ---
 
