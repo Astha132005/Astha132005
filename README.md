@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpkM2J5MXQ3YXdkbzZsdGRrZWlkbnRldjRwNzNqODVkYXl1dXl5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coder GIF" width="360" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xhbGVubzgyczV5bmE5cTJsbHpoYWI1cjhkdTA0M3NyaHl1eWZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coder GIF" width="360" />
 </p>
 
 <h1 align="center">Hi, I'm Astha 👋✨</h1>
@@ -9,8 +9,28 @@
 🎓 B.Tech Computer Science student (Specialization: AI & ML) at **Odisha University of Technology and Research (OUTR'27)**  
 💻 Passionate Front-End Developer | Java Programmer | DSA Enthusiast  
 🤖 Exploring the world of **Artificial Intelligence, Machine Learning, and Generative AI**  
-💼 Recently completed an enriching internship in AI/ML at **Central Tool Room & Training Centre (CTTC)**  
-📸 Sharing insights on skincare & lifestyle on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
+💼 Completed an enriching internship at **Central Tool Room & Training Centre (CTTC)** where I worked on **real-world AI/ML applications** and gained hands-on experience in model development and deployment.  
+📸 Sharing skincare & lifestyle content on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
+
+---
+
+## 🌐 Live Preview of My 3D Portfolio
+
+🎨 [View My 3D Portfolio Website](https://astha132005.github.io/3D-Portfolio/) — A visually engaging site built with HTML, CSS & JavaScript.
+
+---
+
+## 🚀 Major Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔍 [Face Recognition ML Model](https://github.com/Astha132005/Face-Recognition-ML-Model) | A face detection and recognition system using OpenCV, Keras, and TensorFlow. |
+| 🧿 [3D Portfolio](https://github.com/Astha132005/3D-Portfolio) | A stylish 3D portfolio using Three.js & GSAP for immersive animation. |
+| 🎨 [Animated Portfolio](https://github.com/Astha132005/portfolio) | A sleek, scroll-based animated personal site. |
+| 🐦 [Flappy Bird Game](https://github.com/Astha132005/Flappy-Bird-Pygame) | Classic Flappy Bird built in Python with Pygame — dynamic, animated & fun! |
+| 🩺 [Healthcare ChatBot](https://github.com/Astha132005/HealthCare_ChatBot) | A user-friendly chatbot for symptom-based health insights using ML. |
+| 🐍 [Snake Game](https://github.com/Astha132005/Snake-Game) | A fully working snake game in Python with clean UI and scoring. |
+| 🎧 [Spotify Clone](https://github.com/Astha132005/Spotify-Clone) | A UI-only clone of Spotify built with HTML & CSS. |
 
 ---
 
@@ -19,10 +39,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
