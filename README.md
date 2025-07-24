@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Coder GIF" width="350"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpkM2J5MXQ3YXdkbzZsdGRrZWlkbnRldjRwNzNqODVkYXl1dXl5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coder GIF" width="360" />
 </p>
-
 
 <h1 align="center">Hi, I'm Astha 👋✨</h1>
 
