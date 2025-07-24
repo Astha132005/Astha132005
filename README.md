@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" alt="Girl Coding" height="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl Coder GIF" width="350"/>
 </p>
 
 
