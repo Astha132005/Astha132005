@@ -1,56 +1,86 @@
-# Hi, I'm Astha 👋✨
+<p align="center">
+  <img src="https://lottie.host/37c20e96-8f36-4050-89be-268ae39e7d36/py72v9IFCc.json" alt="Astha's Avatar" height="200">
+</p>
 
-🎓 B.Tech Computer Science student (Specialization: AI & ML) at ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH (OUTR'27)
-💻 Passionate about frontend web development, DSA enthusiast and Java programming  
-🌱 Currently diving deep into ARTIFICIAL INTELLIGENCE & MACHINE LEARNING   
-💬 I enjoy sharing insights on lifestyle on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
+<h1 align="center">Hi, I'm Astha 👋✨</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Astha132005&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+🎓 B.Tech Computer Science student (Specialization: AI & ML) at **Odisha University of Technology and Research (OUTR'27)**  
+💻 Passionate Front-End Developer | Java Programmer | DSA Enthusiast  
+🤖 Exploring the world of **Artificial Intelligence, Machine Learning, and Generative AI**  
+💼 Recently completed an enriching internship in AI/ML at **Central Tool Room & Training Centre (CTTC)**  
+📸 Sharing insights on skincare & lifestyle on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-3B4CCA?style=flat&logo=scikit-learn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-ff69b4?style=flat)
+---
+
+## 🧠 Tech Stack I Use
+
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/C-white?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B)
+![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code)
+![AI/ML](https://img.shields.io/badge/AI%2FML-white?style=flat-square&logo=scikit-learn&logoColor=orange)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-white?style=flat-square&logo=openai&logoColor=black)
+
+---
+
+## 📌 Noteworthy Projects
+
+- 🎵 **Spotify Clone**  
+  A clean, responsive UI clone of Spotify built using HTML & CSS.
+
+- 📄 **Java Biodata Generator**  
+  A Java Swing-based GUI application for generating formatted biodata instantly.
+
+- 🤖 **WhatsApp Message Automator**  
+  A simple Python automation script using `pywhatkit` to schedule and send WhatsApp messages.
+
+- 🎮 **Flappy Bird Game**  
+  Python-based version of the classic game using Pygame with game loop, scoring, and dynamic UI.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Astha132005&theme=radical&column=7&no-frame=true"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha132005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha132005&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Astha132005&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astha132005&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
-## 📌 Projects I'm Proud Of
+## 🔥 Contribution Graph
 
-- **Spotify Clone 🎵**  
-  A responsive UI clone of Spotify using only HTML & CSS.
-
-- **Java Biodata Generator 📄**  
-  A GUI-based Java application using Swing to generate instant formatted biodata.
-
-- **WhatsApp Message Automator 📱**  
-  Python script using `pywhatkit` to automate scheduled WhatsApp messages.
-- **🎮 Flappy Bird Game**  
-  A Python-based version of the classic Flappy Bird using pygame, featuring menu states, smooth animations, and dynamic obstacles.  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astha132005&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let’s Connect!
 
-- Instagram: [@reyaistic.me](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)  
-- LinkedIn: [ASTHA DAKHINRAY](https://www.linkedin.com/in/astha-dakhinray-02b0852a0/)  
-- GitHub: [Astha132005](https://github.com/Astha132005)
+- 💼 [LinkedIn](https://www.linkedin.com/in/astha-dakhinray-02b0852a0/)
+- 💻 [GitHub](https://github.com/Astha132005)
+- 📸 [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
 
 ---
 
 > “Code what you love. Design what you feel. Share what inspires.”  
-— Astha 💖
+> — *Astha 💖*
