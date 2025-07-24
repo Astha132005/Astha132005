@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Astha Avatar" height="200">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Girl Coding" height="200">
 </p>
+
 
 <h1 align="center">Hi, I'm Astha 👋✨</h1>
 
@@ -65,4 +66,4 @@
 ---
 
 > “Code what you love. Design what you feel. Share what inspires.”  
-> —
+> — *Astha 💖*
