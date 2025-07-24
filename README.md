@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://lottie.host/37c20e96-8f36-4050-89be-268ae39e7d36/py72v9IFCc.json" alt="Astha's Avatar" height="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Astha Avatar" height="200">
 </p>
 
 <h1 align="center">Hi, I'm Astha 👋✨</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Astha132005&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views"/>
-</p>
 
 ---
 
@@ -20,32 +16,18 @@
 
 ## 🧠 Tech Stack I Use
 
-![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-white?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B)
-![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code)
-![AI/ML](https://img.shields.io/badge/AI%2FML-white?style=flat-square&logo=scikit-learn&logoColor=orange)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-white?style=flat-square&logo=openai&logoColor=black)
-
----
-
-## 📌 Noteworthy Projects
-
-- 🎵 **Spotify Clone**  
-  A clean, responsive UI clone of Spotify built using HTML & CSS.
-
-- 📄 **Java Biodata Generator**  
-  A Java Swing-based GUI application for generating formatted biodata instantly.
-
-- 🤖 **WhatsApp Message Automator**  
-  A simple Python automation script using `pywhatkit` to schedule and send WhatsApp messages.
-
-- 🎮 **Flappy Bird Game**  
-  Python-based version of the classic game using Pygame with game loop, scoring, and dynamic UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
@@ -83,4 +65,4 @@
 ---
 
 > “Code what you love. Design what you feel. Share what inspires.”  
-> — *Astha 💖*
+> —
