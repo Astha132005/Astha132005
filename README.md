@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi, I'm Astha 👋✨</h1>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 🎓 B.Tech Computer Science student (Specialization: AI & ML) at **Odisha University of Technology and Research (OUTR'27)**  
 💻 Passionate Front-End Developer | Java Programmer | DSA Enthusiast  
@@ -12,13 +14,17 @@
 💼 Completed an enriching internship at **Central Tool Room & Training Centre (CTTC)** where I worked on **real-world AI/ML applications** and gained hands-on experience in model development and deployment.  
 📸 Sharing skincare & lifestyle content on [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🌐 Live Preview of My 3D Portfolio
 
 🎨 [View My 3D Portfolio Website](https://astha132005.github.io/3D-Portfolio/) — A visually engaging site built with HTML, CSS & JavaScript.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🚀 Major Projects
 
@@ -32,7 +38,9 @@
 | 🐍 [Snake Game](https://github.com/Astha132005/Snake-Game) | A fully working snake game in Python with clean UI and scoring. |
 | 🎧 [Spotify Clone](https://github.com/Astha132005/Spotify-Clone) | A UI-only clone of Spotify built with HTML & CSS. |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🧠 Tech Stack I Use
 
@@ -49,7 +57,9 @@
   <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -57,7 +67,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Astha132005&theme=radical&column=7&no-frame=true"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 📊 GitHub Stats
 
@@ -66,7 +78,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astha132005&layout=compact&theme=radical" height="180"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 🔥 Contribution Graph
 
@@ -74,7 +88,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astha132005&theme=react-dark&area=true&hide_border=true" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ## 📬 Let’s Connect!
 
@@ -82,7 +98,9 @@
 - 💻 [GitHub](https://github.com/Astha132005)
 - 📸 [Instagram](https://www.instagram.com/reyalistic.me?igsh=a2lmMWFuamE3MHJn)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
-> “Code what you love. Design what you feel. Share what inspires.”  
-> — *Astha 💖*
+"Code what you love. Design what you feel. Share what inspires."
+-*Astha 💖*
