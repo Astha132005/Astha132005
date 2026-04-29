@@ -40,6 +40,8 @@
 ---
 
 ## 🌐 Live Projects
+- 👩‍💻 **ParticleREY**  
+   https://astha132005.github.io/ParticleREY/
 
 - 🎨 **3D Portfolio Website**  
   https://astha132005.github.io/3D-Portfolio/
@@ -54,20 +56,22 @@
 
 | Project | Description |
 |------|-------------|
+| 🤟 Sign Language to Text & Speech | Converts sign language gestures into readable text and audible speech using computer vision & ML |
+| 📊 Student Performance Analysis and Reporting System | Analyzes student data to generate insights, reports, and performance trends |
+| 🩺 Mediscan AI | AI-powered medical assistance system for disease prediction and health insights |
+| 🏦 Bank Management System | Handles banking operations like account management, transactions, and records |
+| 🧠 Multi-Label Toxic Comment Detection | Detects and masks toxic content using hybrid NLP techniques for safer communication |
 | ⚖️ Legal Vault | Decentralized legal document vault (Hackathon Winner) |
-| 🔍 Face Recognition System | Face detection & recognition using OpenCV, TensorFlow, Keras |
 | 🧿 3D Portfolio | Interactive portfolio using Three.js & GSAP |
 | 🎨 Animated Portfolio | Scroll-based animated website |
-| 🐦 Flappy Bird Game | Python + Pygame implementation |
-| 🩺 Healthcare ChatBot | ML-based symptom assistance chatbot |
-| 🐍 Snake Game | Classic snake game in Python |
+| 🤖 Healthcare ChatBot | ML-based symptom assistance chatbot |
 | 🎧 Spotify Clone | UI clone using HTML & CSS |
 
 ---
 
----
+
 
 <p align="center">
 <i>"Code what you love. Design what you feel. Share what inspires."</i><br>
-— Astha 💖
+- Astha 💖
 </p>
