@@ -13,7 +13,7 @@
 ---
 
 # 💫 About Me:
-<br>🎓 Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning<br>💼 Interned at Eagledrift Technologies, where I worked on AI/ML-based solutions, Ab Initio tool, data handling, and real-world problem statements, strengthening my practical understanding of intelligent systems<br>💼 Interned at Central Tool Room & Training Centre (CTTC) working on real-world AI/ML model development & deployment<br>🌐 Alumna of GirlsWhoYap x DoraDAO Fellowship — explored Web3, AI & Blockchain<br>🏆 Winner of a mini hackathon for building a decentralized legal application<br>🚀 Passionate about building user-focused, scalable, and intelligent applications
+<br>🎓 Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning<br>💼 Interned at Eagledrift Technologies, where I worked on AI/ML-based solutions, Ab Initio tool, data handling, and real-world problem statements, strengthening my practical understanding of intelligent systems<br>💼 Interned at EagleDrift Tecghnology & Central Tool Room & Training Centre (CTTC) working on real-world AI/ML model development & deployment<br>🌐 Alumna of GirlsWhoYap x DoraDAO Fellowship - explored Web3, AI & Blockchain<br>🏆 Winner of a mini hackathon for building a decentralized legal application<br>🚀 Passionate about building user-focused, scalable, and intelligent applications
 
 
 ## 🌐 Socials:
