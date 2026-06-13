@@ -13,8 +13,13 @@
 ---
 
 # 💫 About Me:
-<br>🎓 Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning<br>💼 Interned at Eagledrift Technologies, where I worked on AI/ML-based solutions, Ab Initio tool, data handling, and real-world problem statements, strengthening my practical understanding of intelligent systems<br>💼 Interned at EagleDrift Tecghnology & Central Tool Room & Training Centre (CTTC) working on real-world AI/ML model development & deployment<br>🌐 Alumna of GirlsWhoYap x DoraDAO Fellowship - explored Web3, AI & Blockchain<br>🏆 Winner of a mini hackathon for building a decentralized legal application<br>🚀 Passionate about building user-focused, scalable, and intelligent applications
-
+🎓 Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning </br>
+🔬 Research Intern at PXE, DRDO Chandipur, where I developed Computational Ghost Imaging simulations, analyzed Quantum Illumination techniques, and worked on intelligent sensing and image reconstruction using Python-based frameworks</br>
+👩‍💻 Interned at Eagledrift Technologies, where I worked on AI/ML-based solutions, Ab Initio, data handling, and real-world problem statements, strengthening my practical understanding of intelligent systems</br>
+💼 Interned at Central Tool Room & Training Centre (CTTC), working on real-world AI/ML model development and deployment</br>
+🌐 Alumna of GirlsWhoYap × DoraDAO Fellowship - explored Web3, AI, and Blockchain</br>
+🏆 Winner of a mini hackathon for building a decentralized legal application</br>
+🚀 Passionate about building user-focused, scalable, and intelligent applications</br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adakhinray132005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyalistic.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astha-dakhinray-02b0852a0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adakhinray13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AsthaDakhinray13) 
